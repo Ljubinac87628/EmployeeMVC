@@ -1,0 +1,30 @@
+C:\Users\Grupa 1\source\repos\EmployesMVC.Services.Interfaces\bin\Debug\net5.0\EmployesMVC.Services.Interfaces.deps.json
+C:\Users\Grupa 1\source\repos\EmployesMVC.Services.Interfaces\bin\Debug\net5.0\EmployesMVC.Services.Interfaces.dll
+C:\Users\Grupa 1\source\repos\EmployesMVC.Services.Interfaces\bin\Debug\net5.0\ref\EmployesMVC.Services.Interfaces.dll
+C:\Users\Grupa 1\source\repos\EmployesMVC.Services.Interfaces\bin\Debug\net5.0\EmployesMVC.Services.Interfaces.pdb
+C:\Users\Grupa 1\source\repos\EmployesMVC.Services.Interfaces\obj\Debug\net5.0\EmployesMVC.Services.Interfaces.csprojAssemblyReference.cache
+C:\Users\Grupa 1\source\repos\EmployesMVC.Services.Interfaces\obj\Debug\net5.0\EmployesMVC.Services.Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Grupa 1\source\repos\EmployesMVC.Services.Interfaces\obj\Debug\net5.0\EmployesMVC.Services.Interfaces.AssemblyInfoInputs.cache
+C:\Users\Grupa 1\source\repos\EmployesMVC.Services.Interfaces\obj\Debug\net5.0\EmployesMVC.Services.Interfaces.AssemblyInfo.cs
+C:\Users\Grupa 1\source\repos\EmployesMVC.Services.Interfaces\obj\Debug\net5.0\EmployesMVC.Services.Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\Grupa 1\source\repos\EmployesMVC.Services.Interfaces\obj\Debug\net5.0\EmployesMVC.Services.Interfaces.dll
+C:\Users\Grupa 1\source\repos\EmployesMVC.Services.Interfaces\obj\Debug\net5.0\ref\EmployesMVC.Services.Interfaces.dll
+C:\Users\Grupa 1\source\repos\EmployesMVC.Services.Interfaces\obj\Debug\net5.0\EmployesMVC.Services.Interfaces.pdb
+C:\Users\Grupa 1\source\repos\EmployesMVC.Services.Interfaces\bin\Debug\net5.0\EmployesMVC.DataModel.dll
+C:\Users\Grupa 1\source\repos\EmployesMVC.Services.Interfaces\bin\Debug\net5.0\EmployesMVC.DataModel.pdb
+C:\Users\Grupa 1\source\repos\EmployesMVC.Services.Interfaces\obj\Debug\net5.0\EmployesMVC.Services.Interfaces.csproj.CopyComplete
+C:\Users\Milos\ITA slajdovi\Microsoft Web Services\New folder (2)\EmployesMVC.Services.Interfaces\bin\Debug\net5.0\EmployesMVC.Services.Interfaces.deps.json
+C:\Users\Milos\ITA slajdovi\Microsoft Web Services\New folder (2)\EmployesMVC.Services.Interfaces\bin\Debug\net5.0\EmployesMVC.Services.Interfaces.dll
+C:\Users\Milos\ITA slajdovi\Microsoft Web Services\New folder (2)\EmployesMVC.Services.Interfaces\bin\Debug\net5.0\ref\EmployesMVC.Services.Interfaces.dll
+C:\Users\Milos\ITA slajdovi\Microsoft Web Services\New folder (2)\EmployesMVC.Services.Interfaces\bin\Debug\net5.0\EmployesMVC.Services.Interfaces.pdb
+C:\Users\Milos\ITA slajdovi\Microsoft Web Services\New folder (2)\EmployesMVC.Services.Interfaces\bin\Debug\net5.0\EmployesMVC.DataModel.dll
+C:\Users\Milos\ITA slajdovi\Microsoft Web Services\New folder (2)\EmployesMVC.Services.Interfaces\bin\Debug\net5.0\EmployesMVC.DataModel.pdb
+C:\Users\Milos\ITA slajdovi\Microsoft Web Services\New folder (2)\EmployesMVC.Services.Interfaces\obj\Debug\net5.0\EmployesMVC.Services.Interfaces.csprojAssemblyReference.cache
+C:\Users\Milos\ITA slajdovi\Microsoft Web Services\New folder (2)\EmployesMVC.Services.Interfaces\obj\Debug\net5.0\EmployesMVC.Services.Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Milos\ITA slajdovi\Microsoft Web Services\New folder (2)\EmployesMVC.Services.Interfaces\obj\Debug\net5.0\EmployesMVC.Services.Interfaces.AssemblyInfoInputs.cache
+C:\Users\Milos\ITA slajdovi\Microsoft Web Services\New folder (2)\EmployesMVC.Services.Interfaces\obj\Debug\net5.0\EmployesMVC.Services.Interfaces.AssemblyInfo.cs
+C:\Users\Milos\ITA slajdovi\Microsoft Web Services\New folder (2)\EmployesMVC.Services.Interfaces\obj\Debug\net5.0\EmployesMVC.Services.Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\Milos\ITA slajdovi\Microsoft Web Services\New folder (2)\EmployesMVC.Services.Interfaces\obj\Debug\net5.0\EmployesMVC.Services.Interfaces.csproj.CopyComplete
+C:\Users\Milos\ITA slajdovi\Microsoft Web Services\New folder (2)\EmployesMVC.Services.Interfaces\obj\Debug\net5.0\EmployesMVC.Services.Interfaces.dll
+C:\Users\Milos\ITA slajdovi\Microsoft Web Services\New folder (2)\EmployesMVC.Services.Interfaces\obj\Debug\net5.0\ref\EmployesMVC.Services.Interfaces.dll
+C:\Users\Milos\ITA slajdovi\Microsoft Web Services\New folder (2)\EmployesMVC.Services.Interfaces\obj\Debug\net5.0\EmployesMVC.Services.Interfaces.pdb

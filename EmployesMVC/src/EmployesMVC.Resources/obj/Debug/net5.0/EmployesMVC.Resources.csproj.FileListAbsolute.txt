@@ -1,0 +1,24 @@
+C:\Users\Grupa 1\source\repos\EmployesMVC\src\EmployesMVC.Resources\bin\Debug\net5.0\EmployesMVC.Resources.deps.json
+C:\Users\Grupa 1\source\repos\EmployesMVC\src\EmployesMVC.Resources\bin\Debug\net5.0\EmployesMVC.Resources.dll
+C:\Users\Grupa 1\source\repos\EmployesMVC\src\EmployesMVC.Resources\bin\Debug\net5.0\ref\EmployesMVC.Resources.dll
+C:\Users\Grupa 1\source\repos\EmployesMVC\src\EmployesMVC.Resources\bin\Debug\net5.0\EmployesMVC.Resources.pdb
+C:\Users\Grupa 1\source\repos\EmployesMVC\src\EmployesMVC.Resources\obj\Debug\net5.0\EmployesMVC.Resources.csprojAssemblyReference.cache
+C:\Users\Grupa 1\source\repos\EmployesMVC\src\EmployesMVC.Resources\obj\Debug\net5.0\EmployesMVC.Resources.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Grupa 1\source\repos\EmployesMVC\src\EmployesMVC.Resources\obj\Debug\net5.0\EmployesMVC.Resources.AssemblyInfoInputs.cache
+C:\Users\Grupa 1\source\repos\EmployesMVC\src\EmployesMVC.Resources\obj\Debug\net5.0\EmployesMVC.Resources.AssemblyInfo.cs
+C:\Users\Grupa 1\source\repos\EmployesMVC\src\EmployesMVC.Resources\obj\Debug\net5.0\EmployesMVC.Resources.csproj.CoreCompileInputs.cache
+C:\Users\Grupa 1\source\repos\EmployesMVC\src\EmployesMVC.Resources\obj\Debug\net5.0\EmployesMVC.Resources.dll
+C:\Users\Grupa 1\source\repos\EmployesMVC\src\EmployesMVC.Resources\obj\Debug\net5.0\ref\EmployesMVC.Resources.dll
+C:\Users\Grupa 1\source\repos\EmployesMVC\src\EmployesMVC.Resources\obj\Debug\net5.0\EmployesMVC.Resources.pdb
+C:\Users\Milos\ITA slajdovi\Microsoft Web Services\New folder (2)\EmployesMVC\src\EmployesMVC.Resources\bin\Debug\net5.0\EmployesMVC.Resources.deps.json
+C:\Users\Milos\ITA slajdovi\Microsoft Web Services\New folder (2)\EmployesMVC\src\EmployesMVC.Resources\bin\Debug\net5.0\EmployesMVC.Resources.dll
+C:\Users\Milos\ITA slajdovi\Microsoft Web Services\New folder (2)\EmployesMVC\src\EmployesMVC.Resources\bin\Debug\net5.0\ref\EmployesMVC.Resources.dll
+C:\Users\Milos\ITA slajdovi\Microsoft Web Services\New folder (2)\EmployesMVC\src\EmployesMVC.Resources\bin\Debug\net5.0\EmployesMVC.Resources.pdb
+C:\Users\Milos\ITA slajdovi\Microsoft Web Services\New folder (2)\EmployesMVC\src\EmployesMVC.Resources\obj\Debug\net5.0\EmployesMVC.Resources.csprojAssemblyReference.cache
+C:\Users\Milos\ITA slajdovi\Microsoft Web Services\New folder (2)\EmployesMVC\src\EmployesMVC.Resources\obj\Debug\net5.0\EmployesMVC.Resources.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Milos\ITA slajdovi\Microsoft Web Services\New folder (2)\EmployesMVC\src\EmployesMVC.Resources\obj\Debug\net5.0\EmployesMVC.Resources.AssemblyInfoInputs.cache
+C:\Users\Milos\ITA slajdovi\Microsoft Web Services\New folder (2)\EmployesMVC\src\EmployesMVC.Resources\obj\Debug\net5.0\EmployesMVC.Resources.AssemblyInfo.cs
+C:\Users\Milos\ITA slajdovi\Microsoft Web Services\New folder (2)\EmployesMVC\src\EmployesMVC.Resources\obj\Debug\net5.0\EmployesMVC.Resources.csproj.CoreCompileInputs.cache
+C:\Users\Milos\ITA slajdovi\Microsoft Web Services\New folder (2)\EmployesMVC\src\EmployesMVC.Resources\obj\Debug\net5.0\EmployesMVC.Resources.dll
+C:\Users\Milos\ITA slajdovi\Microsoft Web Services\New folder (2)\EmployesMVC\src\EmployesMVC.Resources\obj\Debug\net5.0\ref\EmployesMVC.Resources.dll
+C:\Users\Milos\ITA slajdovi\Microsoft Web Services\New folder (2)\EmployesMVC\src\EmployesMVC.Resources\obj\Debug\net5.0\EmployesMVC.Resources.pdb

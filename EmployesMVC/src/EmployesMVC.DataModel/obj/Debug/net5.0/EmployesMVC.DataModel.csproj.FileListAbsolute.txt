@@ -1,0 +1,24 @@
+C:\Users\Grupa 1\source\repos\EmployesMVC\src\EmployesMVC.DataModel\bin\Debug\net5.0\EmployesMVC.DataModel.deps.json
+C:\Users\Grupa 1\source\repos\EmployesMVC\src\EmployesMVC.DataModel\bin\Debug\net5.0\EmployesMVC.DataModel.dll
+C:\Users\Grupa 1\source\repos\EmployesMVC\src\EmployesMVC.DataModel\bin\Debug\net5.0\ref\EmployesMVC.DataModel.dll
+C:\Users\Grupa 1\source\repos\EmployesMVC\src\EmployesMVC.DataModel\bin\Debug\net5.0\EmployesMVC.DataModel.pdb
+C:\Users\Grupa 1\source\repos\EmployesMVC\src\EmployesMVC.DataModel\obj\Debug\net5.0\EmployesMVC.DataModel.csprojAssemblyReference.cache
+C:\Users\Grupa 1\source\repos\EmployesMVC\src\EmployesMVC.DataModel\obj\Debug\net5.0\EmployesMVC.DataModel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Grupa 1\source\repos\EmployesMVC\src\EmployesMVC.DataModel\obj\Debug\net5.0\EmployesMVC.DataModel.AssemblyInfoInputs.cache
+C:\Users\Grupa 1\source\repos\EmployesMVC\src\EmployesMVC.DataModel\obj\Debug\net5.0\EmployesMVC.DataModel.AssemblyInfo.cs
+C:\Users\Grupa 1\source\repos\EmployesMVC\src\EmployesMVC.DataModel\obj\Debug\net5.0\EmployesMVC.DataModel.csproj.CoreCompileInputs.cache
+C:\Users\Grupa 1\source\repos\EmployesMVC\src\EmployesMVC.DataModel\obj\Debug\net5.0\EmployesMVC.DataModel.dll
+C:\Users\Grupa 1\source\repos\EmployesMVC\src\EmployesMVC.DataModel\obj\Debug\net5.0\ref\EmployesMVC.DataModel.dll
+C:\Users\Grupa 1\source\repos\EmployesMVC\src\EmployesMVC.DataModel\obj\Debug\net5.0\EmployesMVC.DataModel.pdb
+C:\Users\Milos\ITA slajdovi\Microsoft Web Services\New folder (2)\EmployesMVC\src\EmployesMVC.DataModel\bin\Debug\net5.0\EmployesMVC.DataModel.deps.json
+C:\Users\Milos\ITA slajdovi\Microsoft Web Services\New folder (2)\EmployesMVC\src\EmployesMVC.DataModel\bin\Debug\net5.0\EmployesMVC.DataModel.dll
+C:\Users\Milos\ITA slajdovi\Microsoft Web Services\New folder (2)\EmployesMVC\src\EmployesMVC.DataModel\bin\Debug\net5.0\ref\EmployesMVC.DataModel.dll
+C:\Users\Milos\ITA slajdovi\Microsoft Web Services\New folder (2)\EmployesMVC\src\EmployesMVC.DataModel\bin\Debug\net5.0\EmployesMVC.DataModel.pdb
+C:\Users\Milos\ITA slajdovi\Microsoft Web Services\New folder (2)\EmployesMVC\src\EmployesMVC.DataModel\obj\Debug\net5.0\EmployesMVC.DataModel.csprojAssemblyReference.cache
+C:\Users\Milos\ITA slajdovi\Microsoft Web Services\New folder (2)\EmployesMVC\src\EmployesMVC.DataModel\obj\Debug\net5.0\EmployesMVC.DataModel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Milos\ITA slajdovi\Microsoft Web Services\New folder (2)\EmployesMVC\src\EmployesMVC.DataModel\obj\Debug\net5.0\EmployesMVC.DataModel.AssemblyInfoInputs.cache
+C:\Users\Milos\ITA slajdovi\Microsoft Web Services\New folder (2)\EmployesMVC\src\EmployesMVC.DataModel\obj\Debug\net5.0\EmployesMVC.DataModel.AssemblyInfo.cs
+C:\Users\Milos\ITA slajdovi\Microsoft Web Services\New folder (2)\EmployesMVC\src\EmployesMVC.DataModel\obj\Debug\net5.0\EmployesMVC.DataModel.csproj.CoreCompileInputs.cache
+C:\Users\Milos\ITA slajdovi\Microsoft Web Services\New folder (2)\EmployesMVC\src\EmployesMVC.DataModel\obj\Debug\net5.0\EmployesMVC.DataModel.dll
+C:\Users\Milos\ITA slajdovi\Microsoft Web Services\New folder (2)\EmployesMVC\src\EmployesMVC.DataModel\obj\Debug\net5.0\ref\EmployesMVC.DataModel.dll
+C:\Users\Milos\ITA slajdovi\Microsoft Web Services\New folder (2)\EmployesMVC\src\EmployesMVC.DataModel\obj\Debug\net5.0\EmployesMVC.DataModel.pdb
